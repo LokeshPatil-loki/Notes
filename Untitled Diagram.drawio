@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T22:34:19.361Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mDfRDZRgEnHNq2Vh-3rF" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T22:35:45.047Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Wi9A8JViiWMMp6nV-hyV" version="20.8.20" type="github">
   <diagram name="Page-1" id="PtQWVpbONN_IYpuJr706">
     <mxGraphModel dx="2610" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Wpa-RsL2ljYjHo5LuCvC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1" edge="1" parent="1" source="Wpa-RsL2ljYjHo5LuCvC-1" target="Wpa-RsL2ljYjHo5LuCvC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-1" value="IR Remote Controller" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/electronics-line-style/64/Remote-128.png;rotation=0;imageBorder=default;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-1" value="IR Remote Controller" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/electronics-line-style/64/Remote-128.png;rotation=0;imageBorder=default;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry y="200" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Wpa-RsL2ljYjHo5LuCvC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=1" edge="1" parent="1" source="Wpa-RsL2ljYjHo5LuCvC-4" target="Wpa-RsL2ljYjHo5LuCvC-24">
@@ -19,13 +19,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-4" value="Arduino Uno" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/3-electronic-arduino-chipset-icon-2-128.png;imageBorder=default;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-4" value="Arduino Uno" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/3-electronic-arduino-chipset-icon-2-128.png;imageBorder=default;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="200" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Wpa-RsL2ljYjHo5LuCvC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontStyle=1" edge="1" parent="1" source="Wpa-RsL2ljYjHo5LuCvC-6" target="Wpa-RsL2ljYjHo5LuCvC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-6" value="IR Reciever" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;imageBorder=default;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-6" value="IR Reciever" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;imageBorder=default;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Wpa-RsL2ljYjHo5LuCvC-11" value="Signal Gets decoded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="Wpa-RsL2ljYjHo5LuCvC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1" edge="1" parent="1" source="Wpa-RsL2ljYjHo5LuCvC-24" target="Wpa-RsL2ljYjHo5LuCvC-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-24" value="IR Transmitter" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;imageBorder=default;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-24" value="IR Transmitter" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;imageBorder=default;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="669" y="470" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Wpa-RsL2ljYjHo5LuCvC-25" value="IR Controlled Device" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;fontSize=14;fontStyle=1" vertex="1" parent="1">
@@ -58,7 +58,7 @@
         <mxCell id="Wpa-RsL2ljYjHo5LuCvC-54" value="Memory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="610" y="-20" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-60" value="" style="group;fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="1">
+        <mxCell id="Wpa-RsL2ljYjHo5LuCvC-60" value="" style="group;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="816" y="210" width="90" height="83" as="geometry" />
         </mxCell>
         <mxCell id="Wpa-RsL2ljYjHo5LuCvC-57" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#333333;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1;fontSize=14;fillColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" vertex="1" parent="Wpa-RsL2ljYjHo5LuCvC-60">
